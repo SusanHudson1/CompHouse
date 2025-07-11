@@ -1,2 +1,2 @@
 # CompHouse
-Companies House Automation Project
+Companies House Automation Project - see instructions in email...
