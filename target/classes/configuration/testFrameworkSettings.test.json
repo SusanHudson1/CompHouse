@@ -1,0 +1,39 @@
+{
+  "webSettings": {
+    "baseUrl": "https://automationintesting.online/",
+    "elementWaitTimeout": "10",
+    "chrome": {
+      "pageLoadTimeout": "120",
+      "scriptTimeout": "5",
+      "artificialDelayBeforeAction": "0"
+    },
+    "firefox": {
+      "pageLoadTimeout": "60",
+      "scriptTimeout": "1",
+      "artificialDelayBeforeAction": "0"
+    },
+    "edge": {
+      "pageLoadTimeout": "60",
+      "scriptTimeout": "1",
+      "artificialDelayBeforeAction": "0"
+    },
+    "internetExplorer": {
+      "pageLoadTimeout": "60",
+      "scriptTimeout": "1",
+      "artificialDelayBeforeAction": "0"
+    },
+    "opera": {
+      "pageLoadTimeout": "60",
+      "scriptTimeout": "1",
+      "artificialDelayBeforeAction": "0"
+    },
+    "safari": {
+      "pageLoadTimeout": "60",
+      "scriptTimeout": "1",
+      "artificialDelayBeforeAction": "0"
+    }
+  },
+  "urlSettings": {
+    "loginUrl": "https://automationintesting.online/admin"
+  }
+}
